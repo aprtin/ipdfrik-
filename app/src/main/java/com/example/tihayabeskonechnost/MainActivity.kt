@@ -15,7 +15,8 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AutoAwesome
 import androidx.compose.material.icons.filled.Bolt
-import androidx.compose.material.icons.filled.Cards
+import androidx.compose.material.icons.filled.Insights
+import androidx.compose.material.icons.filled.Style
 import androidx.compose.material.icons.filled.Expand
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Lock
